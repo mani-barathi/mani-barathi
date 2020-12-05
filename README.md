@@ -14,7 +14,5 @@ Apart from Coding, I do **Speedcubing**.
 <br />
 <br />
 
-<hr />
-
 ###### ✔Feel free to create a pull request to contribute to any of my repositories.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/manibarathi_s/)
