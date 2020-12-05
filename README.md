@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Manibarathi
-I'm a Computer Science Student who is very much interested in **Coding**. Apart from Coding, I do **Speedcubing**.  
-<br />
-I'm currently exploring **Python** and **Web development**.
+I'm a Computer Science Student who is very much interested in **Coding**. Currently I'm exploring **Python** and **Web development**. Apart from Coding, I practise **Speedcubing**.  
+
 ### 🔧 Languages and Tools 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
