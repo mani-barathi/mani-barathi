@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Manibarathi
 I'm a Computer Science Student and I'm currently exploring **Python** and **Web development**. Apart from coding, I practise **Speedcubing**.  
 
-### 🔧 Languages and Tools 
+### Languages and Tools 🔧
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -12,8 +12,12 @@ I'm a Computer Science Student and I'm currently exploring **Python** and **Web 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
+
+### Connect with me
+
+[<img align="left"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='"manibharathi | LinkedIn' width="30px">](https://www.instagram.com/manibarathi_s/)
+[<img align="left" alt="manibharathi | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mani-bharathi-08/)
+
 <br />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/manibarathi_s/)
-
-##### Feel free to create a pull request to contribute to any of my repositories.
+#### Feel free to create a pull request to contribute to any of my repositories.
