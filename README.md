@@ -20,4 +20,11 @@ I'm a Computer Science Student and I'm currently exploring **Python** and **Web 
 
 <br />
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+</details>
+
 #### Feel free to create a pull request to contribute to any of my repositories.
