@@ -14,7 +14,6 @@ I'm a Computer Science Student and I'm currently exploring **Python** and **Web 
 <br />
 
 ### Connect with me
-
 [<img align="left"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='"manibharathi | LinkedIn' width="30px">](https://www.instagram.com/manibarathi_s/)
 [<img align="left" alt="manibharathi | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mani-bharathi-08/)
 
