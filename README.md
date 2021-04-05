@@ -1,4 +1,4 @@
-# ?? Hi there! I'm Manibarathi  
+# 👋 Hi there! I'm Manibarathi  
 I am a Computer Science student, who is currently exploring **Python** and **Web development**. Apart from coding, I practise **Speedcubing**.
 
 ### Technologies and Tools
@@ -12,8 +12,10 @@ I am a Computer Science student, who is currently exploring **Python** and **Web
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Vim" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
+<br />
+
 ### Connect with me
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://manibarathi.web.app/)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mani-bharathi-08/)
 
-#### Feel free to create a pull request to contribute to any of my repositories.??
+#### Feel free to create a pull request to contribute to any of my repositories.💙
