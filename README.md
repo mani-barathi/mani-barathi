@@ -19,6 +19,7 @@ I am a Computer Science student, who is currently exploring **JavaScript** and i
 
 ### Blog Post
 <!-- HASHNODE:START -->
+- [How I Vim🚀](https://blog.manibarathi.xyz/how-i-vim)
 <!-- HASHNODE:END -->
 
 #### Feel free to contribute to any of my repositories.💙
