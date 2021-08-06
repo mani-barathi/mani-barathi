@@ -19,6 +19,7 @@ I am a Computer Science student, who is currently exploring **JavaScript** and i
 
 ### Blog Post
 <!-- HASHNODE:START -->
+- [Beginner's guide to SQL Pagination](https://blog.manibarathi.xyz/beginners-guide-to-sql-pagination)
 - [How I Vim🚀](https://blog.manibarathi.xyz/how-i-vim)
 <!-- HASHNODE:END -->
 
