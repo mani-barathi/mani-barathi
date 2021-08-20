@@ -13,7 +13,7 @@ I am a Computer Science student, who is currently exploring **JavaScript** and i
 <br /> <br />
 
 ### Connect with me
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://manibarathi.web.app/)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://manibarathi.xyz/)
 [<img src="https://img.shields.io/badge/blog-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://blog.manibarathi.xyz/)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mani-bharathi-08/)
 
