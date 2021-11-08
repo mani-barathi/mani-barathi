@@ -21,7 +21,7 @@ I am a Computer Science student, who is currently exploring **JavaScript** and i
 <!-- HASHNODE:START -->
 - [What is Object Relational Mapping?](https://blog.manibarathi.xyz/what-is-object-relational-mapping)
 - [5 Nifty Functions in Python](https://blog.manibarathi.xyz/5-nifty-functions-in-python)
-- [Beginner's guide to SQL Pagination](https://blog.manibarathi.xyz/beginners-guide-to-sql-pagination)
+- [Beginner&#39;s guide to SQL Pagination](https://blog.manibarathi.xyz/beginners-guide-to-sql-pagination)
 - [How I Vim🚀](https://blog.manibarathi.xyz/how-i-vim)
 <!-- HASHNODE:END -->
 
